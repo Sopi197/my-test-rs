@@ -1,2 +1,1 @@
-# my-test-rs
-my см
+# my super cv
